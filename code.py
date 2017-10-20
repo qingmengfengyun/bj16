@@ -1,4 +1,3 @@
 print("你好")
 print("我也很好")
-sdgfsdfsdfsdf
-gasdfgasd
+天南地北双飞客，老翅几回寒暑。
